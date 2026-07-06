@@ -1,0 +1,51 @@
+{
+  "citations": [
+    {
+      "source": "blog.google",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "searchenginejournal.com",
+      "title": "Google Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents",
+      "url": "https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/"
+    },
+    {
+      "source": "news.mit.edu",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.mit.edu/2025/qa-what-agentic-ai-today-and-what-do-we-want-it-be"
+    },
+    {
+      "source": "Blockchain Council",
+      "title": "MCP vs RAG vs Skills: AI Agent Architecture",
+      "url": "https://www.blockchain-council.org/ai/mcp-vs-rag-vs-skills-ai-agent-architecture/"
+    },
+    {
+      "source": "scmagazine.com",
+      "title": "Shell injection flaw found in 10 of 11 open-source AI agents",
+      "url": "https://www.scmagazine.com/news/shell-injection-flaw-found-in-10-of-11-open-source-ai-agents"
+    },
+    {
+      "source": "cybernews.com",
+      "title": "Best AI Tools for eCommerce 2026",
+      "url": "https://cybernews.com/ai-tools/best-ai-tools-for-ecommerce/"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed = hash(title + kind + audience + generated_at) -> selected architecture = workflow-command-center. AIDA Check: Attention (command-center hero), Interest (proof + market context), Desire (workflow playbook + media), Action (CTA band). Font Selection: Cabinet Grotesk primary. Hero Math Verification: clamp headline max-width ensures 2\u20133 lines on desktop. Bento Density Verification: gapless grid-auto-flow:dense confirmed. GSAP Motion Selection: pinned-chapter-scroll + hover-physics. Label Sweep & Button Check: black pill primary CTA, white secondary CTA, contrast verified.",
+  "generated_at": "2026-07-06T03:24:22.754477+00:00",
+  "headline": "Super for ecommerce operators monitoring orders, support, and repetitive admin",
+  "site_brief": {
+    "audience": "ecommerce operators monitoring orders, support, and repetitive admin",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work. Include a long-form field guide for this niche with concrete workflows, how-to steps, role-specific examples, objections, and a setup checklist.",
+    "kind": "niche_landing",
+    "queries": [
+      "ecommerce operators monitoring orders, support, and repetitive admin AI assistant",
+      "ecommerce operators monitoring orders, support, and repetitive admin personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-ecommerce-operators-monitoring-orders-support-an",
+    "title": "Super for ecommerce operators monitoring orders, support, and repetitive admin"
+  },
+  "summary": "A premium niche landing page for ecommerce operators who live inside order queues, support inboxes, and repetitive admin. Shows how Super\u2019s personal AI agents can operate real apps, reuse a computer-use cache, and reduce the grind of repeated workflows\u2014grounded in current market evidence and a practical field guide."
+}
